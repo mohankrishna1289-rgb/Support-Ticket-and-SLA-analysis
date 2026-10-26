@@ -1,0 +1,15 @@
+{
+  "total_tickets": 4000,
+  "unique_ids": 4000,
+  "unresolved": 225,
+  "review": 143,
+  "response_sample": 3708,
+  "resolution_sample": 3632,
+  "response_mean": 139.38,
+  "resolution_mean": 61.03,
+  "response_breached": 719,
+  "resolution_breached": 767,
+  "rated": 1226,
+  "csat": 3.99,
+  "reopened": 285
+}
