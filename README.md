@@ -1,4 +1,4 @@
-# Customer Support Performance Analytics
+# Support-and-SLA-Analysis
 
 An Excel, PostgreSQL and Power BI portfolio project analysing 4,000 support tickets to identify service delays, reopening patterns and customer-feedback gaps.
 
